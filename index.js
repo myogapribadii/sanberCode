@@ -1,1 +1,3 @@
-TextDecoderStream
+if (condition) {
+
+}
